@@ -1,0 +1,11 @@
+C:\Users\Wiz\Desktop\IGME 201\Presidents\bin\Debug\Presidents.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Presidents\bin\Debug\Presidents.exe
+C:\Users\Wiz\Desktop\IGME 201\Presidents\bin\Debug\Presidents.pdb
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.exe
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.pdb
+C:\Users\Wiz\Desktop\IGME 201\Presidents\obj\Debug\Presidents.presidentsForm.resources
